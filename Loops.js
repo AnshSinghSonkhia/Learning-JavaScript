@@ -26,6 +26,16 @@ function factorial(n) {
 
 // WHILE Loop Syntax
 
-while(b > 5) {
+while(baa > 5) {
     // do something
+}
+
+
+// While Loop using BREAK Statement
+
+while(true) {
+    if(aaa > 2) {
+        // exit the loop
+        break;
+    }
 }
