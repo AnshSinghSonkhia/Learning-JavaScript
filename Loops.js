@@ -39,3 +39,14 @@ while(true) {
         break;
     }
 }
+
+
+// determine the largest double of value 
+// that is less than the top 
+
+function topDouble(value, top) {
+    while(value < top) {
+        value = value * 2;
+    }
+    return value / 2;
+}
