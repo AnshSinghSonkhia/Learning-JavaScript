@@ -22,3 +22,10 @@ function factorial(n) {
 
     return fact;
 }
+
+
+// WHILE Loop Syntax
+
+while(b > 5) {
+    // do something
+}
