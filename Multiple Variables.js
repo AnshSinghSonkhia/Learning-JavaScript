@@ -2,3 +2,8 @@
 
 const a = 4;
 const b = a;
+
+// Booleans
+
+const c = true;
+const d = false;
